@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "124634785603",
+    "project_id": "manhwa-comics",
+    "storage_bucket": "manhwa-comics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124634785603:android:54c8449d17e107a50171f6",
+        "android_client_info": {
+          "package_name": "com.mufizaro.mhnwanvlprktk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124634785603-ej3meqn4uveo8nasn6rp1bu4tsa8lgln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ-KGHXEAIL4Ql-rCmQZbd594hpFlE8u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124634785603-ej3meqn4uveo8nasn6rp1bu4tsa8lgln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124634785603:android:d0f8adfb679924a10171f6",
+        "android_client_info": {
+          "package_name": "com.mufizaro.mnhwcmcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124634785603-ej3meqn4uveo8nasn6rp1bu4tsa8lgln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ-KGHXEAIL4Ql-rCmQZbd594hpFlE8u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124634785603-ej3meqn4uveo8nasn6rp1bu4tsa8lgln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
