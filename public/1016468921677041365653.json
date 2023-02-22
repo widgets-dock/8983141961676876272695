@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "40592858733",
+    "project_id": "manhwa-reader-dbb95",
+    "storage_bucket": "manhwa-reader-dbb95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40592858733:android:0a0a2fc21c0fb1dd86e964",
+        "android_client_info": {
+          "package_name": "com.kakeanpolah.pelmnhayknjs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40592858733-6gi85k6kq8hguavhl5ljq1d6ovnko4d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYl64QwbUxlqgeJtP25c9twY5E8tln5k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40592858733-6gi85k6kq8hguavhl5ljq1d6ovnko4d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40592858733:android:baf3782bd751b75386e964",
+        "android_client_info": {
+          "package_name": "com.kakeanpolah.rdrmnhdjmnmblds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40592858733-6gi85k6kq8hguavhl5ljq1d6ovnko4d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYl64QwbUxlqgeJtP25c9twY5E8tln5k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40592858733-6gi85k6kq8hguavhl5ljq1d6ovnko4d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
